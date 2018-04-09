@@ -1,0 +1,10 @@
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jmpit\source\repos\Trabajos practicos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
