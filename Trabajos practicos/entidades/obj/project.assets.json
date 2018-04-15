@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmpit\\source\\repos\\Trabajos practicos\\entidades\\entidades.csproj",
+      "projectUniqueName": "C:\\Users\\jmpit\\Downloads\\proyectos\\visual estudio\\tp-Laboratorio-II-master\\Trabajos practicos\\entidades\\entidades.csproj",
       "projectName": "entidades",
-      "projectPath": "C:\\Users\\jmpit\\source\\repos\\Trabajos practicos\\entidades\\entidades.csproj",
+      "projectPath": "C:\\Users\\jmpit\\Downloads\\proyectos\\visual estudio\\tp-Laboratorio-II-master\\Trabajos practicos\\entidades\\entidades.csproj",
       "packagesPath": "C:\\Users\\jmpit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmpit\\source\\repos\\Trabajos practicos\\entidades\\obj\\",
+      "outputPath": "C:\\Users\\jmpit\\Downloads\\proyectos\\visual estudio\\tp-Laboratorio-II-master\\Trabajos practicos\\entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
