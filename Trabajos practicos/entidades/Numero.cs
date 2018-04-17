@@ -56,76 +56,78 @@ namespace entidades
         {
             
             int len = binario.Length;
-            int i = 0, j = 0, num = 0, stringCount = 0;
+            int num = 0, stringCount = 0;
             char[] _binario = new char[len];
 
             _binario = binario.ToCharArray();
 
 
 
-            for (i = len - 1; i >= 0; i--)
+            for (int i = len - 1, j = 0; i >= 0; i--,j++)
             {
 
-                if(_binario[stringCount] == '1')
-                {
-                    num += 1;
-                    
-                    if(stringCount < (len - 2))
+                
+                
 
-                    for(j = 2; j < len; j++)
-                    {
-                        
-                        num += 2 * 2;
-                    }
+                if (binario[i] == '0' || binario[i] == '1')
+                {
+                    num += (int)(int.Parse(binario[i].ToString()) * Math.Pow(2, j));
                 }
+                else return "valor invalido";
+                    
 
             }
 
-            return ""+num;
+            return Convert.ToString(num);
         }
 
         public string DecimalBinario(string _decimal)
         {
-            string auxString = "";
+            string auxBinario = "", binario = "";
+
             double _Decimal = 0;
-            int _numero, count = 0;
-            char[] _binario;
+            int numero;
 
             if (double.TryParse(_decimal, out _Decimal) == true)
             {
 
-                _numero = (int)_Decimal;
+                numero = (int)_Decimal;
 
-                while (_numero != 1)
+                while (numero != 0)
                 {
-                    if (_numero % 2 == 0)
+                    if (numero % 2 == 0)
                     {
-                        auxString += "0";
+                        auxBinario += "0";
                     }
                     else
                     {
-                        auxString += "1";
+                        auxBinario += "1";
                     }
-                    _numero = _numero / 2;
+                    numero = numero / 2;
 
-                    count++;
+                   
                 }
-
-                _binario = new char[count];
-                auxString = "";
-
-                for (int i = count - 1; i >= 0; i--)
-                {
-                    auxString += _binario[i];
-                }
-
+         
 
             }
-            else auxString = "0";
+            else return "0";
 
+            if(_Decimal >= 0)
+            {
+                binario = "0";
+            }
+            else
+            {
+                binario = "1";
+            }
 
-            //auxString = "" + _numero;
-            return auxString;
+            for(int i = auxBinario.Length -1; i >= 0; i--)
+            {
+                binario += auxBinario[i];
+            }
+
+            
+            return binario;
         }
 
         public string DecimalBinario(double _decimal)

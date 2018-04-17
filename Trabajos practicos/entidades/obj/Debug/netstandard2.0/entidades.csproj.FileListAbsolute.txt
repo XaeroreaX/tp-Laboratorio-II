@@ -7,3 +7,12 @@ C:\Users\jmpit\Downloads\proyectos\visual estudio\tp-Laboratorio-II-master\Traba
 C:\Users\jmpit\Downloads\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.AssemblyInfo.cs
 C:\Users\jmpit\Downloads\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.dll
 C:\Users\jmpit\Downloads\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.pdb
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\bin\Debug\netstandard2.0\entidades.deps.json
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\bin\Debug\netstandard2.0\entidades.dll
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\bin\Debug\netstandard2.0\entidades.pdb
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.csprojResolveAssemblyReference.cache
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.csproj.CoreCompileInputs.cache
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.AssemblyInfoInputs.cache
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.AssemblyInfo.cs
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.dll
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\entidades\obj\Debug\netstandard2.0\entidades.pdb
