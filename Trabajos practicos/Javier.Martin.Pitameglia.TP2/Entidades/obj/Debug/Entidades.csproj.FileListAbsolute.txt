@@ -1,0 +1,6 @@
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP2\Entidades\bin\Debug\Entidades.dll
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP2\Entidades\bin\Debug\Entidades.pdb
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP2\Entidades\obj\Debug\Entidades.dll
+C:\martin\project\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP2\Entidades\obj\Debug\Entidades.pdb
