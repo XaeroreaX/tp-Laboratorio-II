@@ -19,7 +19,9 @@ namespace MainCorreo
 
         private Thread thread;
 
-        //private ToolStripMenuItem mostrarToolStripMenuItem;
+        private ToolStripMenuItem mostrarToolStripMenuItem;
+
+        private readonly ContextMenuStrip collectionRoundMenuStrip;
 
         public FrmPpal()
         {
@@ -32,11 +34,24 @@ namespace MainCorreo
 
             this.rtbMostrar.Enabled = false;
 
+
+            this.mostrarToolStripMenuItem = new ToolStripMenuItem("Mostrar");
+
+            this.mostrarToolStripMenuItem.Click += MostrarToolStripMenuItem;
+
+            this.collectionRoundMenuStrip = new ContextMenuStrip();
+
+            this.collectionRoundMenuStrip.Items.Add(this.mostrarToolStripMenuItem);
+
+            this.lstEstadoEntregado.ContextMenuStrip = this.collectionRoundMenuStrip;
+
             
+        }
 
 
-
-            
+        private void MostrarToolStripMenuItem(object sender, EventArgs e)
+        {
+            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
 
         private void FrmPpal_Load(object sender, EventArgs e)

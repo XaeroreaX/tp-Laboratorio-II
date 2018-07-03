@@ -12,3 +12,9 @@ C:\martin\project\laboratorio2-master\pitameglia.javierMartin\Javier.Martin.Pita
 C:\martin\project\laboratorio2-master\pitameglia.javierMartin\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\martin\project\laboratorio2-master\pitameglia.javierMartin\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.dll
 C:\martin\project\laboratorio2-master\pitameglia.javierMartin\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.pdb
+D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\bin\Debug\Entidades.dll.config
+D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\bin\Debug\Entidades.dll
+D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\bin\Debug\Entidades.pdb
+D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.dll
+D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.pdb
