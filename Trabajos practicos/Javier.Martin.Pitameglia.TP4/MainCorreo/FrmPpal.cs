@@ -51,7 +51,8 @@ namespace MainCorreo
 
         private void MostrarToolStripMenuItem(object sender, EventArgs e)
         {
-            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
+            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
+
         }
 
         private void FrmPpal_Load(object sender, EventArgs e)
@@ -147,11 +148,22 @@ namespace MainCorreo
                 this._correo += Paquete;
 
 
+                PaqueteDAO.Insertar(Paquete);
+                
+                
+
+
             }
 
             catch(TrackingIdRepetidoException EX)
             {
                 MessageBox.Show(EX.Message);
+            }
+
+            catch(Exception EX)
+            {
+                MessageBox.Show(EX.Message);
+
             }
 
 

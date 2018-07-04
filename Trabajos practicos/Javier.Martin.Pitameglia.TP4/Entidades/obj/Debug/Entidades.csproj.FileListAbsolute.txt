@@ -18,3 +18,10 @@ D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitamegli
 D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.dll
 D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.pdb
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\bin\Debug\Entidades.dll.config
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\bin\Debug\Entidades.dll
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\bin\Debug\Entidades.pdb
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.dll
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\Entidades\obj\Debug\Entidades.pdb

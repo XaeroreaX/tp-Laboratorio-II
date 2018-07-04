@@ -80,7 +80,7 @@ namespace Entidades
 
             Paquete algo =(Paquete) elemento;
 
-            return String.Format("{0} ({1})", this.ToString(), this.Estado.ToString());
+            return String.Format("{0} ({1})\n", this.ToString(), this.Estado.ToString());
         }
 
 

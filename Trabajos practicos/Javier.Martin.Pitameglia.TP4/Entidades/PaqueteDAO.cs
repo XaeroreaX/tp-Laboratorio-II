@@ -23,15 +23,23 @@ namespace Entidades
             {
                 SqlConnection sql = new SqlConnection(PaqueteDAO._conexion);
 
-                PaqueteDAO._comando = new SqlCommand("", sql);
+                PaqueteDAO._comando = new SqlCommand("INSERT INTO Paquete (_direccionEntrega, _estado, _TrackingId) VALUES ('" + p.DireccionDeEntrega + "','" + p.Estado + "'," + p.TrackingID + ")", sql);
 
-               
+                PaqueteDAO._comando.CommandType = System.Data.CommandType.Text;
+
+
+                PaqueteDAO._comando.ExecuteNonQuery();
+
+
             }
 
 
             catch(Exception e)
             {
+
                 returnAux = false;
+                throw e;
+
             }
 
             return returnAux;
@@ -39,8 +47,6 @@ namespace Entidades
 
         static PaqueteDAO()
         {
-
-            
 
            PaqueteDAO._conexion = Properties.Settings.Default.ConnectionString;
 

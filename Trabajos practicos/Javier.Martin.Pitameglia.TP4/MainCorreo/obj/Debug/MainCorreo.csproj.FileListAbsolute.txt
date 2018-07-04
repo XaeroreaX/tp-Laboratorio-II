@@ -44,3 +44,16 @@ D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitamegli
 D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
 D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
 D:\XaeroreaX\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\bin\Debug\Entidades.dll
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\bin\Debug\Entidades.pdb
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+E:\XaeroreaX\proyectos\visual estudio\tp-Laboratorio-II-master\Trabajos practicos\Javier.Martin.Pitameglia.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
